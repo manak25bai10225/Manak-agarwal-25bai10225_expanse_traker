@@ -21,10 +21,6 @@ Requirements
 Python 3.x
 SQLite3
 Installation
-Clone the repository:
-
-git clone https://github.com/yugeshsr13/DAY-TO-DAY-EXPENSES-CALCULATOR.git
-Navigate to the project directory:
 
 cd DAY-TO-DAY-EXPENSES-CALCULATOR
 Usage
